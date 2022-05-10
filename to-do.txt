@@ -1,0 +1,5 @@
+-finalize max G line placement
+-implement button for speed input, convert to distance travelled from top or bottom
+-implement points at relative peaks over certain identified threshold
+-allow user to name file that gets saved
+-output list of times and estimated distances at which peak G forces occur
