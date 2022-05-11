@@ -3,7 +3,7 @@
 ### Motivation
 In the elevator industry, ride quality is a huge consideration when building new elevators and modernizing existing systems.
 
-In my previous role as a modernization project director , we used a pretty large and heavy device to measure ride quality due to the fact that the manufacturer also provided us with software that would help us download and plot the vibration data. It was cumbersome to carry around and inconvenient to use. **There are MANY iPhone and Android applications that can capture acceleration, so I figured it was time to build a desktop application that could take the data collected from a phone and output nice charts/ visuals.**
+In my previous role as a modernization project director, we used a pretty large and heavy device to measure ride quality due to the fact that the manufacturer also provided us with software that would help us download and plot the vibration data. It was cumbersome to carry around and inconvenient to use. **There are MANY iPhone and Android applications that can capture acceleration, so I figured it was time to build a desktop application that could take the data collected from a phone and output nice charts/ visuals.**
 
 ### Objectives
 
