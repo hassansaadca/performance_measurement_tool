@@ -10,7 +10,7 @@ At my previous job, we used a pretty large and heavy device to measure ride qual
 
 
 ### Approach
-I used the `tkinter` python library to build a desktop application that reads vibration data collected from an iPhone. It allows the user to select a file of data which has been recorded using an ["Accelerometer" iPhone app built by *DreamArc*.](https://appadvice.com/app/accelerometer/499629589).
+I used the `tkinter` python library to build a desktop application that reads vibration data collected from an iPhone. It allows the user to select a file of data which has been recorded using an ["Accelerometer" iPhone app built by *DreamArc*.](https://appadvice.com/app/accelerometer/499629589)
 
 The **Performance Measurement Tool** allows a user to input data collected during a ride, upload to a computer, then output a chart that identifies any acceleration values that are too large.<sup>1</sup>
 
