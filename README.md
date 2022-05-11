@@ -1,7 +1,14 @@
 ## Performance Measurement Tool (PMT)
 
-### Goal
-The goal of this project was to get more practice with object oriented programming while actually building something practical/ useful.
+### Motivation
+In the elevator industry, ride quality is a huge factor that comes into play both when building new elevators and when modernizing existing systems.
+
+At my previous job, we used a pretty large and heavy device to measure ride quality due to the fact that the manufacturer also provided us with software that would help us download and plot the vibration data. It was cumbersome to carry around and inconvenient to use. **There are MANY iPhone and Android applications that can capture acceleration, so I figured it was time to build a desktop application that could take the data collected from a phone and output nice charts/ visuals.**
+
+### Objectives
+
+1. To build a tool that would allow us to avoid carrying around heavy equipment in order to perform ride quality measurements
+2. To get more practice with object oriented programming while actually building something practical/ useful
 
 ### Motivation
 In the elevator industry, ride quality is a huge factor that comes into play both when building new elevators and when modernizing existing systems.
@@ -18,7 +25,7 @@ The **Performance Measurement Tool** allows a user to input data collected durin
 1. Run the `main.py` python script from the repo, which will open up the `tkinter` interface.
 ![Main Opening Screen](./demo_photos/main.png)
 
-2. Click on the "Upload File" button at the top left and select vibration3.txt (the others work too, but vibration3 is the best example)
+2. Click on the "Upload File" button at the top left and select "sample_data >> vibration3.txt" (the others work too, but vibration3.txt is the best example).
 ![Select a File](./demo_photos/file.png)
 
 3. Click on the "Display Data" Button.
