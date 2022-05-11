@@ -16,9 +16,7 @@ root.geometry('400x600')
 myLabel = tk.Label(root, text = 'Enter your first name:')
 myLabel.pack()
 
-def greet():
-    hello_label = tk.Label(root, text= f'Hello {myTextBox.get()}! Welcome to the shitshow!')
-    hello_label.pack()
+
 
 def plot_file():
     string1 = 'text-D3A4E18FD759-1.txt'
